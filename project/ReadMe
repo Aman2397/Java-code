@@ -1,0 +1,2 @@
+This Poject is IOT project which detects the speed of car using sensor and reads the RFID tag .
+If speed is over the speed limit it will send RFID message on given number using GSM module.
