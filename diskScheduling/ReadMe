@@ -1,0 +1,7 @@
+It simulates following disk scheduling alogorithms.
+1)FCFS
+2)SSTF
+3)SCAN
+4)LOOK
+5)C-SCAN
+6)C-LOOK
